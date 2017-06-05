@@ -1,4 +1,4 @@
-# react-example-book-list
+# redux-example-book-list
 
 A simple react-redux example that lists books.
 This project is created using the ReduxSimpleStarter boilerplate.
